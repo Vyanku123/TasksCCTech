@@ -1,0 +1,4 @@
+﻿  FileHandling.cpp
+C:\Users\Vyankatesh Pandit\Desktop\UMA MAM\FileHandlingCount\FileHandlingCount\FileHandling.cpp(21,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vyankatesh Pandit\Desktop\UMA MAM\FileHandlingCount\FileHandlingCount\FileHandling.cpp(38,31): warning C4018: '<': signed/unsigned mismatch
+  FileHandlingCount.vcxproj -> C:\Users\Vyankatesh Pandit\Desktop\UMA MAM\FileHandlingCount\Debug\FileHandlingCount.exe

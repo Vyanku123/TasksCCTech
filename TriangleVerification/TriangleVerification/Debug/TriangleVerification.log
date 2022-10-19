@@ -1,0 +1,3 @@
+﻿  Triangle.cpp
+C:\Users\Vyankatesh Pandit\source\repos\Training And Incubation\Main\TriangleVerification\TriangleVerification\Triangle.cpp(31,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  TriangleVerification.vcxproj -> C:\Users\Vyankatesh Pandit\source\repos\Training And Incubation\Main\TriangleVerification\Debug\TriangleVerification.exe
